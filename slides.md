@@ -3,6 +3,7 @@ theme: light-icons
 ---
 
 # ChatGPT
+
 ## the marriage of meaning with mechanism
 
 ---
@@ -12,8 +13,8 @@ theme: light-icons
 - like fire and electricity, both more profound and more mundane than expected
 - part of the 4th industrial revolution--glue between technologies
 - impossibly big possibilities and implications
-    - lean in to the grounding that your philosophical, spiritual, religious tradition gives you
-    - also, you are not alone if you feel some anxiety
+  - lean in to the grounding that your philosophical, spiritual, religious tradition gives you
+  - also, you are not alone if you feel some anxiety
 
 ---
 
@@ -42,8 +43,10 @@ Let's try a few things
 ![Pete](images/nonmayorpete.png)
 
 ---
+
 src: ./pages/examples.md
 hide: false
+
 ---
 
 ## What can it do?
@@ -83,13 +86,16 @@ hide: false
 
 - Crossword puzzles are dead
 - Bigger models with new emergent intelligence
-- Impact on marketing and infotainment jobs
+- Impact on marketing, news, education first
 - Benefits for people with ADHD
 
 ### Mid-term
 
 - Major disruption to economy (example: 70% job loss to video game artists)
-- New education targets, e.g. prompt engineering
+- New education targets, e.g.
+  - prompt engineering
+  - safety
+  -
 - An LLM (large language model) on your device for privacy, new wave of games & apps
 
 ### Long-term
@@ -98,49 +104,19 @@ hide: false
 
 ---
 
-## Co-working Spaces - Near Future
+Curriculum Ideas
 
-&nbsp;
+Parents who know about ChatGPT are experiencing fascination, curiosity, and anxiety.
 
-### Enhanced collaboration tools
-- AI-assisted project management and communication platforms
-- Streamlined workflows and efficient resource allocation
+How to ChatGPT: The New Frontier of Intelligence Amplification for Your Kids (13+)
 
-### Customized AI services for startups
-- Tailored AI solutions based on specific industry needs and goals
-- Support for accelerated growth and innovation
+ChatGPT is like a calculator, but for language, and it's implications are changing what we should expect from education. This course will teach your kids how to use the most powerful intelligence amplification algorithm known to humankind (GPT-4) to write persuasive essays, create video games, write youtube scripts, sift through digital information to locate and summarize answers, and tap into other tools like Wolfram Alpha and Zapier.
 
-### AI-driven community building
-- Enhanced tenant experience through AI-powered recommendations and events
-    - e.g. Match-making suggestions, etc.
+In the class, we will cover things like:
 
----
-
-## Mid-term
-
-&nbsp;
-
-### On-demand access to AI resources
-- Co-working spaces offering AI-as-a-Service (AIaaS) for tenant startups?
-- Seamless integration of AI tools with the co-working ecosystem
-    - e.g. describe your needs and have a room booked for you, automatically
-- Personalized tenant support, e.g. Q&A bot?
-
-### Expansion of AI-focused educational programs and support
-- Workshops, training sessions, and mentorship programs for AI integration
-- Creation of a community of AI experts and professionals within co-working spaces
-
----
-
-## Long-term
-
-&nbsp;
-
-### Co-working spaces as AI innovation hubs
-- Attracting top AI talent and fostering collaborations among AI-driven startups
-
-### AI-powered business models and services
-- Emergence of new products & services tailored to AI-driven co-working environments
+- Safety: how to validate whether what a language calculator says is true
+- Prompt Engineering: what makes an effective prompt, how to avoid pitfalls
+- Connecting Plugins: how do we install and use Wolfram Alpha and Zapier plugins
 
 ---
 
@@ -157,7 +133,6 @@ hide: false
 - Finance
 - Manufacturing & Supply Chain
 
-
 ---
 
 ![Exponential](images/exponential.jpeg)
@@ -167,11 +142,16 @@ hide: false
 ![Kurzweil Curve](images/kurzweil.png)
 
 ---
+# Agents (e.g. Auto GPT)
+
+https://www.youtube.com/watch?v=-rudGxBM2rc
+
+---
 
 ## Parting thoughts
 
 - like fire and electricity, both more profound and more mundane than expected
 - part of the 4th industrial revolution--glue between technologies
 - impossibly big possibilities and implications
-    - lean in to the grounding that your philosophical, spiritual, religious tradition gives you
-    - also, you are not alone if you feel some anxiety
+  - lean in to the grounding that your philosophical, spiritual, religious tradition gives you
+  - also, you are not alone if you feel some anxiety
